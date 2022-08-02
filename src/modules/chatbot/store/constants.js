@@ -1,0 +1,3 @@
+export const OPEN = 'CHAT_BOT_OPEN';
+export const CLOSE = 'CHAT_BOT_CLOSE';
+export const CREATE_CONVERSATION = 'CHAT_BOT_CREATE_CONVERSATION';
